@@ -48,16 +48,6 @@
 
 </div>
 
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shasan634/Shasan634/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
-</div>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
