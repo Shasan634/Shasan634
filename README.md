@@ -52,12 +52,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shasan634&show_icons=true&theme=radical&border_radius=10&count_private=true" />
 <img height="165" src="https://streak-stats.demolab.com/?user=Shasan634&theme=radical&border_radius=10" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shasan634&layout=compact&theme=radical&border_radius=10&hide=html&langs_count=8" />
+
 
 </div>
 
