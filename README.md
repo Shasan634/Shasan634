@@ -75,6 +75,4 @@
 
 ### 🚀 Let's build something together
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" />
-
 </div>
